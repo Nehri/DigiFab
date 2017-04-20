@@ -1,0 +1,30 @@
+solid tetrahedrontest
+   facet normal 0.000000e000 0.000000e000 0.000000e000
+      outer loop
+         vertex 0.000000e000 0.000000e000 0.000000e000
+         vertex -7.071068e000 -7.071068e000 0.000000e000
+         vertex -7.071068e000 0.000000e000 -7.071068e000
+      endloop
+   endfacet
+   facet normal 0.000000e000 0.000000e000 0.000000e000
+      outer loop
+         vertex 0.000000e000 0.000000e000 0.000000e000
+         vertex 0.000000e000 -7.071068e000 -7.071068e000
+         vertex -7.071068e000 -7.071068e000 0.000000e000
+      endloop
+   endfacet
+   facet normal 0.000000e000 0.000000e000 0.000000e000
+      outer loop
+         vertex -7.071068e000 0.000000e000 -7.071068e000
+         vertex 0.000000e000 0.000000e000 0.000000e000
+         vertex 0.000000e000 -7.071068e000 -7.071068e000
+      endloop
+   endfacet
+   facet normal 0.000000e000 0.000000e000 0.000000e000
+      outer loop
+         vertex -7.071068e000 -7.071068e000 0.000000e000
+         vertex -7.071068e000 0.000000e000 -7.071068e000
+         vertex 0.000000e000 -7.071068e000 -7.071068e000
+      endloop
+   endfacet
+endfacet name
